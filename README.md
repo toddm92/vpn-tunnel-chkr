@@ -5,7 +5,7 @@ This Ruby script checks the health of your VPC/VPN Tunnels.
 **Requirements:**
 
 * Tested with ruby 2.4.2p198
-# Ruby AWS SDK
+* Ruby AWS SDK
 * A valid profile in `~/.aws/config` or `${AWS_CONFIG_FILE}` with the appropriate API keys
 
 **Usage:**
